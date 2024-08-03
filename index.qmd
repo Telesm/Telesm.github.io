@@ -2,7 +2,11 @@
 title: "Telesm.github.io"
 ---
 
-This is a Quarto website.
+será se saporra vai funcionar?
+
+ainda bem que a super Jéssica me mandou esse vídeo: https://www.youtube.com/watch?v=lv5a80XgzlI
+
+Ajudou para um caralho!
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
